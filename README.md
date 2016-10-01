@@ -1,3 +1,9 @@
-IS218
-<h1>My First Web Page</h1>
+<html>
+<head>
+<title>IS218</title>
+</head>
+<body>
+<h1>HTML elements</h1>
+</body>
 
+</html>
