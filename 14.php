@@ -52,7 +52,7 @@ $firstName = 'Allen';
 $lastName = 'Jiang';
 $email = 'yj99@njit.edu';
 $statement->execute();
-echo 'Homework 14';
+echo 'Homework 14 <br>';
 echo 'Done!';
 //$statement->execute();
 //$results = $statement->fetch(PDO::FETCH_OBJ);
